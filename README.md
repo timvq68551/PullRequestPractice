@@ -1,37 +1,9 @@
-# TestRepo
+# ClonePractice
 
-Foobar is a Python library for dealing with word pluralization.
+A repo for my EMCC students to practice cloning and committing.
 
-## Installation
+## Information
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+See assignment directions in Canvas for details. Be sure to use the naming convention indicated there.
 
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Note that you will be asked to create a fork; your additions/changes will not be visible in the main branch until I merge them.
