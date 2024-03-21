@@ -1,3 +1,10 @@
+"""
+Andrew Woodward
+Module 08 Programming Assignment
+Part B
+
+This program prints a movie quote from a text file.
+"""
 FILE_NAME = 's24_woodward.txt'
 try:
     with open(FILE_NAME, 'r') as file:
