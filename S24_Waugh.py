@@ -1,0 +1,8 @@
+print()
+print("***********************************************")
+print("*  Tina, you fat lard, come get some dinner.  *")
+print("*              - Napolean                     *")
+print("*                                             *")
+print("*          (Napoleon Dynamite, 2004)          *")
+print("***********************************************")
+print()
