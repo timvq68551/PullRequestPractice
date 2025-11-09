@@ -1,5 +1,3 @@
-# print_two_markdowns.py
-
 def print_md():
     files = ["f25_Billiet.md", "f25_Thomas.md"]
 
