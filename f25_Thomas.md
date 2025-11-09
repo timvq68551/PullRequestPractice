@@ -1,0 +1,1 @@
+Dylan Thomas, 'Do Not Go Gentle into That Good Night', 1947
