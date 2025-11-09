@@ -1,4 +1,17 @@
-print('"Do not go gentle into that good night,')
-print('Old age should burn and rave at close of day;')
-print('Rage, rage against the dying of the light."')
-print("— Dylan Thomas, 'Do Not Go Gentle into That Good Night', 1947")
+# print_two_markdowns.py
+
+def print_md():
+    files = ["f25_Billiet.md", "f25_Thomas.md"]
+
+    for file_path in files:
+        try:
+            with open(file_path, 'r', encoding='utf-8') as file:
+                print(file.read())
+        except FileNotFoundError:
+            print(f"error: '{file_path}' not found")
+        except Exception as e:
+            print(f"error while reading '{file_path}' {e}")
+
+
+if __name__ == "__main__":
+    print_md()
