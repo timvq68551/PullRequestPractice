@@ -1,0 +1,13 @@
+"""
+Silas Ornelas
+Module 08 Programming Project
+Attempting to demonstrate proficiency in using Github
+"""
+
+print(""""Everyone has things they can and cannot do. I'll do what you can't do, and you do what I can't do." - Sanji """)
+
+print("""(One Piece, Episode 297) """)
+
+
+
+
