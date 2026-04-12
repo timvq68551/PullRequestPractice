@@ -1,0 +1,1 @@
+print("A King Who Reigns But Doesn’t Rule. Sounds Good To Me\nTaiki Kawakami - (Tensura Slime, 2018)")
